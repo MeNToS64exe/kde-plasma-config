@@ -1,0 +1,10 @@
+cmake
+extra-cmake-modules
+git
+konsole
+kvantum
+ttf-firacode-nerd
+ttf-jetbrains-mono-nerd
+yay
+yay-debug
+zsh
